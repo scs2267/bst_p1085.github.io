@@ -1,0 +1,29 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+structure that you have to use is index with a lowercase i .html
+
+## Links
+
+Lets link to useful tools for data science:
+
+* [Google](https://www.google.com/)
+* [p8105](https://www.p8105.com)
+
+## Local Image
+
+
+# of course you would change to another thingy
+
+## Link to page within site
+[About Me](about_me.html)
+

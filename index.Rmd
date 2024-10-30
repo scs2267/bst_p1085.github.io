@@ -21,8 +21,9 @@ Lets link to useful tools for data science:
 
 ## Local Image
 
+<img src="tree.png" style="width:75%">
 
-# of course you would change to another thingy
+This code right here is html
 
 ## Link to page within site
 [About Me](about_me.html)
